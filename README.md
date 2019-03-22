@@ -1,2 +1,2 @@
 # shinyapp
-basic shiny app to explore sepal data 
+basic shiny app to explore iris data 
