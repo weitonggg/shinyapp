@@ -1,2 +1,2 @@
 # shinyapp
-basic shiny app to explore iris data 
+simple shiny app to explore iris data 
